@@ -11,7 +11,7 @@ from colorama import Fore, init
 
 intro = """
 
-        MADE BY : Gladiator16#0420
+        MADE BY : Gladiator16#0420 & muralweaver#7562
 
 
  ▄· ▄▌      ▄• ▄▌▄▄▄▄▄▄• ▄▌▄▄▄▄· ▄▄▄ .   ▌ ▐·▪  ▄▄▄ .▄▄▌ ▐ ▄▌  ▄▄▄▄·       ▄▄▄▄▄
